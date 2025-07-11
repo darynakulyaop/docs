@@ -24,6 +24,13 @@
             ]
           },
           {
+            "group": "Porting",
+            "pages": [
+              "porting-to-openphone",
+              "porting-to-openphone/how-to-port"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
@@ -32,13 +39,6 @@
               "essentials/settings",
               "essentials/navigation",
               "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "Porting to OpenPhone",
-            "pages": [
-              "porting-to-openphone",
-              "porting-to-openphone/how-to-port"
             ]
           }
         ]
