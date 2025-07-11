@@ -17,10 +17,8 @@
             "group": "Get Started",
             "pages": [
               "index",
-<<<<<<< HEAD
+              "introduction-to-openphone",
               "a2p-10dlc",
-=======
->>>>>>> 0a153123f658fa02c88db2b0f8d27ae63b80a587
               "quickstart",
               "development"
             ]
