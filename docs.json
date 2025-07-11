@@ -18,16 +18,11 @@
             "pages": [
               "index",
               "introduction-to-openphone",
+              "porting/whatisporting",
+              "porting/howtoportcurrentnumber",
               "a2p-10dlc",
               "quickstart",
               "development"
-            ]
-          },
-          {
-            "group": "Porting",
-            "pages": [
-              "porting/whatisporting",
-              "porting/howtoportcurrentnumber"
             ]
           },
           {
