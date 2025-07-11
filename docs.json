@@ -21,8 +21,8 @@
               {
                 "group": "Porting",
                 "pages": [
-                  "porting/whatisporting",
-                  "porting/howtoportcurrentnumber"
+                  "porting/howtoportcurrentnumber",
+                  "porting/whatisporting"
                 ]
               },
               "a2p-10dlc",
