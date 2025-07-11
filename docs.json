@@ -26,8 +26,8 @@
           {
             "group": "Porting",
             "pages": [
-              "porting-to-openphone",
-              "porting-to-openphone/how-to-port"
+              "porting/whatisporting",
+              "porting/howtoportcurrentnumber"
             ]
           },
           {
