@@ -18,6 +18,7 @@
             "pages": [
               "index",
               "introduction-to-openphone",
+              "porting",
               "a2p-10dlc",
               "quickstart",
               "development"
